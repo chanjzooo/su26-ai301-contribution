@@ -1,19 +1,19 @@
 # su26-ai301-contribution
 
-# Contribution 1: Add Color Theme: Lantern Blue
+# Contribution 1: Add Color Theme: Thunder God
 
 **Contribution Number:** 1
 **Student:** CJ Park  
-**Issue:** https://github.com/lingdojo/kana-dojo/issues/19279  
+**Issue:** https://github.com/lingdojo/kana-dojo/issues/19380  
 **Status:** Phase I
 
 ---
 
 ## Why I Chose This Issue
 
-I chose this issue because it's a beginner-friendly contribution that will allow me to become familiar with the open-source development workflow. Since this will be one of my first contributions to a large public repository, I wanted to start with a well-scoped task that has clear requirements and a straightforward implementation process.
+I chose this issue because it is a beginner-friendly open source contribution that will help me become familiar with the GitHub contribution workflow. Since I am still developing my open source experience, I wanted to start with a clearly defined task that has straightforward requirements and an easily verifiable outcome.
 
-I'm also interested in learning how community-driven projects manage contributions through GitHub issues, forks, commits, and pull requests. By working on this issue, I hope to gain experience contributing to an active project while building confidence for more complex open-source contributions in the future.
+This issue also gives me an opportunity to learn how community contributions are reviewed and merged in a real-world project. Through this contribution, I hope to gain experience working with forks, commits, pull requests, and project contribution guidelines.
 
 ---
 
@@ -21,15 +21,15 @@ I'm also interested in learning how community-driven projects manage contributio
 
 ### Problem Description
 
-The project maintains a collection of community-created color themes. This issue requests the addition of a new theme called "Lantern Blue" to the community themes configuration file.
+This issue requests the addition of a new community theme called "Thunder God" to KanaDojo's theme collection. The theme's color values have already been provided and need to be added to the community themes configuration file.
 
 ### Expected Behavior
 
-The new "Lantern Blue" theme should be added to the available community themes and become selectable within the application after the change is merged.
+The Thunder God theme should appear as one of the available community themes and be selectable by users after the change is merged.
 
 ### Current Behavior
 
-The "Lantern Blue" theme does not currently exist in the community themes list, so users cannot select or use it.
+The Thunder God theme is not currently included in the community themes list, so users do not have access to it.
 
 ### Affected Components
 
