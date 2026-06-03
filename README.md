@@ -2,18 +2,18 @@
 
 # Contribution [1]: [Add Color Theme: Lantern Blue]
 
-**Contribution Number:** [1]  
-**Student:** [CJ Park]  
-**Issue:** [https://github.com/lingdojo/kana-dojo/issues/19279]  
-**Status:** [Phase I]
+**Contribution Number:** 1
+**Student:** CJ Park  
+**Issue:** https://github.com/lingdojo/kana-dojo/issues/19279  
+**Status:** Phase I
 
 ---
 
 ## Why I Chose This Issue
 
-[I chose this issue because it's a beginner-friendly contribution that will allow me to become familiar with the open-source development workflow. Since this will be one of my first contributions to a large public repository, I wanted to start with a well-scoped task that has clear requirements and a straightforward implementation process.
+I chose this issue because it's a beginner-friendly contribution that will allow me to become familiar with the open-source development workflow. Since this will be one of my first contributions to a large public repository, I wanted to start with a well-scoped task that has clear requirements and a straightforward implementation process.
 
-I'm also interested in learning how community-driven projects manage contributions through GitHub issues, forks, commits, and pull requests. By working on this issue, I hope to gain experience contributing to an active project while building confidence for more complex open-source contributions in the future.]
+I'm also interested in learning how community-driven projects manage contributions through GitHub issues, forks, commits, and pull requests. By working on this issue, I hope to gain experience contributing to an active project while building confidence for more complex open-source contributions in the future.
 
 ---
 
@@ -21,15 +21,15 @@ I'm also interested in learning how community-driven projects manage contributio
 
 ### Problem Description
 
-[The project maintains a collection of community-created color themes. This issue requests the addition of a new theme called "Lantern Blue" to the community themes configuration file.]
+The project maintains a collection of community-created color themes. This issue requests the addition of a new theme called "Lantern Blue" to the community themes configuration file.
 
 ### Expected Behavior
 
-[The new "Lantern Blue" theme should be added to the available community themes and become selectable within the application after the change is merged.]
+The new "Lantern Blue" theme should be added to the available community themes and become selectable within the application after the change is merged.
 
 ### Current Behavior
 
-[The "Lantern Blue" theme does not currently exist in the community themes list, so users cannot select or use it.]
+The "Lantern Blue" theme does not currently exist in the community themes list, so users cannot select or use it.
 
 ### Affected Components
 
