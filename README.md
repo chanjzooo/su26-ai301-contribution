@@ -1,6 +1,6 @@
 # su26-ai301-contribution
 
-# Contribution [1]: [Add Color Theme: Lantern Blue]
+# Contribution 1: Add Color Theme: Lantern Blue
 
 **Contribution Number:** 1
 **Student:** CJ Park  
